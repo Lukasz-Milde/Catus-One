@@ -1,0 +1,28 @@
+{
+  "name": "catus_one",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.63.6",
+    "vite": "^4.3.9"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "esbuild": "^0.17.19",
+    "nanoid": "^3.3.6",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.24",
+    "rollup": "^3.25.3",
+    "source-map-js": "^1.0.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
